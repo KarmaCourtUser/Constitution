@@ -1,1 +1,1 @@
-Constitution: https://github.com/KarmaCourt/Constitution/wiki/Constitution
+Constitution [here.](https://github.com/KarmaCourt/Constitution/wiki/Constitution)
